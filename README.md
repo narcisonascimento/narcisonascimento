@@ -1,5 +1,7 @@
-# Narciso Nascimento <a href="https://linkedin.com/in/narcisonascimento"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-## Cientista de Dados / Analista de Dados
+# Narciso Nascimento
+## Cientista de Dados / Analista de Dados <br>
+<a href="https://linkedin.com/in/narcisonascimento"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br>
 Estou desenvolvendo minha carreira para a área de dados, onde estou estudando Ciência de Dados e Análise de Dados.
 <br>
 ### Resumo:
