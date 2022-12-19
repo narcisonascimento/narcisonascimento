@@ -1,7 +1,7 @@
 # Narciso Nascimento
 ## Cientista de Dados / Analista de Dados <br>
-<a href="https://linkedin.com/in/narcisonascimento"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/narcisonascimento/code"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+<a href="https://linkedin.com/in/narcisonascimento" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/narcisonascimento/code" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 <br>
 Estou desenvolvendo minha carreira para a área de dados, onde estou estudando Ciência de Dados e Análise de Dados.
 <br>
